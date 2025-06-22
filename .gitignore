@@ -1,1 +1,11 @@
-node_modules
+# Node modules
+node_modules/
+
+# Hardhat artifacts
+artifacts/
+cache/
+typechain/
+typechain-types/
+
+# Environment variables
+.env

@@ -2,7 +2,7 @@
 
 # FlashVerse Token (FVC)
 
-FlashVerse Token (FVC) is a fixed-supply, ERC-20 compliant token deployed on the Polygon zkEVM network. The token is upgradeable using OpenZeppelin's proxy pattern and supports manual token burns by whitelisted addresses.
+FlashVerse Token (FVC) is a fixed-supply, ERC-20 compliant token deployed on the Polygon network. The token is upgradeable using OpenZeppelin's proxy pattern and supports manual token burns by whitelisted addresses.
 
 
 ## 🛠 Features
@@ -69,7 +69,7 @@ Then run:
 npx hardhat run scripts/deploy.js --network localhost
 ```
 
-### 4. Deploy to Polygon zkEVM Testnet
+### 4. Deploy to Polygon Testnet
 
 Add your private key in a `.env` file:
 
